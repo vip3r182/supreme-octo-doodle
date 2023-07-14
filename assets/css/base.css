@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  outline: none;
+  padding: 0;
+}
+
+/* Variáveis */
+:root {
+  --bg-color: #ffffff;
+  --input-busca-bg: #f5f5f5;
+  --input-placeholder: #a2a2a2;
+  --produtos-bg: #e5e5e5;
+  --texto-azul: #2a7ae4;
+  --texto-branco: #ffffff;
+  --texto-preto: #464646;
+  --bg-contato: #eaf2fd;
+}
